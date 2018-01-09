@@ -1,1 +1,1 @@
-# smartly_smart
+# smart_contract.txt
